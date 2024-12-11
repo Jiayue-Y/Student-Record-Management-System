@@ -1,1 +1,2 @@
 # Student-Record-Management-System
+This program manages student record with functions of add, delete, update GPA, display a student profile, display all students' profiles, and display students with GPA over a certain number. Error message will be displayed with adding a student with existing student ID, updating, deleting or displaying a student with non-existing ID, and when there's no student with GPA higher than the given number.
